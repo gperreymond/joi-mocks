@@ -1,0 +1,33 @@
+{
+  "name": "joi-mocks",
+  "version": "1.0.0",
+  "description": "Extend Joi to create mocked data with a Joi Schema",
+  "main": "index.js",
+  "dependencies": {
+    "chance": "1.0.4",
+    "faker": "3.1.0",
+    "hoek": "^4.0.2",
+    "joi": "9.0.4",
+    "lodash": "^4.15.0",
+    "randexp": "0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gperreymond/joi-mocks.git"
+  },
+  "keywords": [
+    "joi",
+    "mock",
+    "plugin"
+  ],
+  "author": "Gilles Perreymond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gperreymond/joi-mocks/issues"
+  },
+  "homepage": "https://github.com/gperreymond/joi-mocks#readme"
+}
